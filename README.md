@@ -1,2 +1,1 @@
-# EGATOR-with-javaScript
-this is fully responsive web site with javaScript and bootstrap
+<a style='text:black;font-weight:bold;' href='https://egator-jsdevhasan.netlify.app/'>Live Demo</a>
